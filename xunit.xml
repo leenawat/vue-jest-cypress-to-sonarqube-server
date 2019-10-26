@@ -1,0 +1,5 @@
+<testExecutions version="1">
+<file path="">
+<testCase name="My First Test: Visits the app root url" duration="699"/>
+</file>
+</testExecutions>
