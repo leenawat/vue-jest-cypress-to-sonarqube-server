@@ -45,7 +45,7 @@
     "jest-sonar-reporter": "^2.0.0",
     "jest-vue-preprocessor": "^1.7.0",
     "mocha-sonarqube-reporter": "^1.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nyc": "^14.1.1",
     "sass-loader": "^8.0.0",
     "ts-jest": "^23.0.0",
